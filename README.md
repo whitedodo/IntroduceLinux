@@ -14,3 +14,4 @@ Welcome to Linux
 
 ### ISO to USB (Windows 환경)
 ###### 1. Win32 Disk Imager download | SourceForge.net, Last Modified, Accessed by 2019-10-13, https://sourceforge.net/projects/win32diskimager/
+###### 2. EaseUS Partition Master 무료 사용법 - EaseUS 사용 설명서, Last Modified, Accessed by 2019-10-13, https://www.easeus.co.kr/tutorial/partition-master-free-user-guide.html
