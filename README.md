@@ -11,3 +11,6 @@ Welcome to Linux
 
 ### Vi 에디터
 ###### 1. vi, Last Modified, Accessed by 2019-10-13, https://wiki.kldp.org/KoreanDoc/html/Vim_Guide-KLDP/Vim_Guide-KLDP.html
+
+### ISO to USB (Windows 환경)
+###### 1. Win32 Disk Imager download | SourceForge.net, Last Modified, Accessed by 2019-10-13, https://sourceforge.net/projects/win32diskimager/
