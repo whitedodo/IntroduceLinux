@@ -1,5 +1,4 @@
-# IntroduceLinux
-Welcome to Linux
+# Welcome to Linux Guide Github Site
 
 ### 데비안 9.9(Debian 9.9)
 ###### 1. 190714 - 데비안9.9 설치하기 - 1부, Last Modified 2019-07-14, Accessed by 2019-10-10, https://youtu.be/rKSOCwRwFdA
